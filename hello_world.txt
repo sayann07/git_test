@@ -1,0 +1,4 @@
+Hello World! 
+This is my first day of learning git
+I am really excited
+Also thank you so much the odin project :)
